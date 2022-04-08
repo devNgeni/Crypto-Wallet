@@ -1,5 +1,4 @@
-### 
-Crypto-Wallet
+# Crypto Wallet
 
 To build a mobile application that will function as a crypto wallet where one can store assets on most Ethereum Virtual Machine-supported blockchains (Ethereum, Binance Smart Chain, Huobi ECO Chain etc.). 
 Users should be able to create wallets, receive and send any asset which is deployed on the blockchains mentioned above. 
