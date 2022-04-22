@@ -11,3 +11,8 @@ The build will be a cross- platform application for both Android and iOS platfor
 - Ethereum
 - Binance Smart Chain
 
+DISCLAIMER: This is a demo codebase from our private repositories for the above project. Contact us for more information if you find this dApp of interest.
+
+Relevant Blockchains: [Ethereum, Binance Smart Chain]
+
+dApp Completion date: [ X ]
