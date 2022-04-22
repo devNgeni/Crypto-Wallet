@@ -15,4 +15,4 @@ DISCLAIMER: This is a demo codebase from our private repositories for the above 
 
 Relevant Blockchains: [Ethereum, Binance Smart Chain]
 
-dApp Completion date: [ X ]
+dApp Completion date: [March 31,2022]
